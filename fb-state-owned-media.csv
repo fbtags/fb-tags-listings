@@ -1,4 +1,5 @@
 page-url,page-tags,tag-color
+HongKongWatchOrg,UK MPs-controlled Anti China Media,#c8102e
 bbcnews,UK State-owned Media,#c8102e
 BBCPolitics,UK State-owned Media,#c8102e
 BBCChinese,UK State-owned Media,#c8102e
@@ -15,9 +16,8 @@ bbcnewskyrgyz,UK State-owned Media,#c8102e
 bbcnewsuzbek,UK State-owned Media,#c8102e
 BBCLondon,UK State-owned Media,#c8102e
 BBCinKent,UK State-owned Media,#c8102e
-100064467291406,Israel State Media,#0038b8
-MakanAkhbar,Israel State Media,#0038b8
-KANGIMMEL,Israel State Media,#0038b8
+1.00E+14,Israeli State Media,#0038b8
+MakanAkhbar,Israeli State Media,#0038b8
 abc,Australia State-owned Media,#00843d
 abcnews.au,Australia State-owned Media,#00843d
 abcperth,Australia State-owned Media,#00843d
@@ -32,6 +32,7 @@ ABCPilbara,Australia State-owned Media,#00843d
 abccentralwest,Australia State-owned Media,#00843d
 ABCNorthCoast,Australia State-owned Media,#00843d
 ABClisten,Australia State-owned Media,#00843d
+abcchinese.au,Australia State-owned Media,#00843d
 abcadelaide,Australia State-owned Media,#00843d
 abcwidebay,Australia State-owned Media,#00843d
 abcnorthtas,Australia State-owned Media,#00843d
@@ -106,6 +107,7 @@ tkp1902china,China State-owned Media,#ee1c25
 tkp1902financialnews,China State-owned Media,#ee1c25
 tkp1902culture,China State-owned Media,#ee1c25
 wwpchina,China State-owned Media,#ee1c25
+int.metrop,China State-owned Media,#ee1c25
 hkorangenews,China State-owned Media,#ee1c25
 dotdotnews18,China State-owned Media,#ee1c25
 CCTVAPOfficial,China State-owned Media,#ee1c25
@@ -114,7 +116,7 @@ peopledaily,China State-owned Media,#ee1c25
 ChinaNewsService,China State-owned Media,#ee1c25
 ChinaDailyAsiaCH,China State-owned Media,#ee1c25
 lionrockdailyhk,Hong Kong Government-owned Media,#DE2910
-61560380307752,Hong Kong Government-owned Media,#DE2910
+6.16E+13,Hong Kong Government-owned Media,#DE2910
 TamarTalk.hk,Hong Kong Government-owned Media,#DE2910
 rmwhk,Hong Kong Government-owned Media,#DE2910
 govnews.hk,Hong Kong Government-owned Media,#DE2910
@@ -135,7 +137,6 @@ Canal.Macau,Macau Government-owned Media,#077662
 tdmradiomacau,Macau Government-owned Media,#077662
 TDMMACAU,Macau Government-owned Media,#077662
 russiatodaynews0,Russia State-owned Media (likely),#0036A7
-61579957671980,Russia State-owned Media (likely),#0036A7
 NHKonline,Japan State-owned Media,#BC002D
 nhknewsweb,Japan State-owned Media,#BC002D
 nhkworld,Japan State-owned Media,#BC002D
